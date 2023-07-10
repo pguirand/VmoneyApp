@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "921410542895",
+    "project_id": "vmoneyapp-efdcf",
+    "storage_bucket": "vmoneyapp-efdcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921410542895:android:8ec3227bc057c705f715da",
+        "android_client_info": {
+          "package_name": "com.example.vmoneyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921410542895-o6f38qf39dicipk6q8oh7mdtuqkju902.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vmoneyapp",
+            "certificate_hash": "a4993c64be763421767d67017e6b24dfa6996b75"
+          }
+        },
+        {
+          "client_id": "921410542895-q08l5cu78a3evjqfd1rg2ktne28vl89m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0fde7TcSMoqyS6fjM7-fnyoCdJd8tjwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921410542895-2eb75vmidkms54mkmd4i5shcqc0tart9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
